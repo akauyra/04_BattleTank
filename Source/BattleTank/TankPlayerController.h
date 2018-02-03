@@ -5,8 +5,9 @@
 #include "CoreMinimal.h"
 #include "GameFramework/PlayerController.h"
 #include "Engine/World.h"
-#include "BattleTank/Public/Tank.h"
 #include "TankPlayerController.generated.h"
+
+class ATank;
 
 /**
  * 
